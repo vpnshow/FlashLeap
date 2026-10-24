@@ -65,6 +65,21 @@
 
 ## 闪跃(FlashLeap)VPN IPLC、节点测速与流媒体解锁
 
+### 历史截图的文字结果
+
+来源为本页已有的 MiaoKo 测速截图。图中时间为 **2026-07-18 21:18:08（CST）**，环境标注珠海联通 9Gbps，工具为喵速 4.7.0，32 线程。下表摘录部分节点，速度保留图中 MB / KB 标注，未换算为 Mbps。
+
+| 节点（截图摘录） | TLS RTT | HTTPS 延迟 | 平均速度（原图单位） | 最高速度（原图单位） | 其他记录 |
+| --- | --- | --- | --- | --- | --- |
+| 香港 / Hong Kong13 | 202ms | 633ms | 550.88MB | 598.92MB | UDP：FullCone |
+| 新加坡 / Singapore06 | 105ms | 717ms | 419.59MB | 570.86MB | UDP：Unknown |
+| 日本 / Japan05 | 134ms | 730ms | 189.69MB | 377.67MB | UDP：FullCone |
+| 台湾 / Taiwan04 | 203ms | 1048ms | 90.39MB | 124.20MB | UDP：FullCone |
+| 美国 / United States04 | 245ms | 1000ms | 13.89MB | 32.00MB | UDP：FullCone |
+| 新加坡 / Singapore08 | 107ms | 485ms | 9.60KB | 96.00KB | UDP：Unknown；低速记录 |
+
+图中按平均速度降序排列，末尾仍有低速节点；Unknown 不是已确认的 UDP 不可用。该次晚间记录仅适用于当时环境，不能保证当前所有节点的晚高峰速度。
+
 ![闪跃节点测速图](https://i.eoht.net/airport/flashleap_speed.webp)
 
 ![闪跃流媒体解锁图](https://i.eoht.net/airport/flashleap_test.webp)
