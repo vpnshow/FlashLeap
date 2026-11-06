@@ -11,7 +11,7 @@
 >
 > - **最低门槛**：闪跃年付版 60GB/月，年付 ¥96；月付档位从 150GB 到 1TB。
 > - **核心特点**：主打 IPLC 线路、全节点 1 倍率，并提供定制客户端与通用订阅。
-> - **优惠与场景**：页面列有新用户 7 折码，原生 IP 节点支持流媒体和 AI 服务。
+> - **优惠与场景**：`shanyue` 享 8 折，限指定套餐及付款周期、限用一次；原生 IP 节点支持流媒体和 AI 服务。
 >
 > [查看套餐与优惠](#flashleap-vpn-plans) · [查看测速与解锁](#flashleap-speed-streaming-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
@@ -24,7 +24,7 @@
 
 [立即购买闪跃套餐](https://eoht.net/serve/airport/flashleap)
 
-**本页汇总闪跃(FlashLeap)机场推广注册入口、套餐价格、新用户优惠码以及测速与解锁记录；购买前请以结算页信息为准。**
+**本页汇总闪跃(FlashLeap)机场推广注册入口、套餐价格、优惠码及其适用条件，以及测速与解锁记录；购买前请以结算页信息为准。**
 
 <a id="flashleap-airport-overview"></a>
 
@@ -48,8 +48,9 @@
 
 > [!TIP]
 >
-> - **新用户 7 折优惠码**：`eoht`
-> - **适用条件**：限新用户，实际适用套餐与折后价格以结算页为准。
+> - **8 折优惠码**：`shanyue`，减免 20%；公告标注**永久有效，限用一次**。
+> - **指定套餐**：**闪动（Flicker）、飞跃（Leap）、瞬移（Teleport）、跃迁（Warp）**，闪跃年付小包不在适用名单内。
+> - **指定周期**：月付、季付、半年付、年付、两年付、三年付；实际可选周期与折后价格以结算页为准。
 > - **新手建议**：轻度使用选择 **小包**；需要流媒体和 AI 服务可按月流量选择 Flicker、Leap、Teleport 或 Warp。
 >
 
@@ -98,7 +99,7 @@
 
 ### 闪跃(FlashLeap)VPN优惠码和流量倍率是什么意思？
 
-页面列有新用户 7 折码 `eoht`，实际适用套餐与折后价格以结算页为准。全节点 1 倍率表示页面不另列高倍率节点，仍应按自己的月流量需求预留余量。
+优惠码 `shanyue` 享 8 折，公告标注永久有效、限用一次；仅适用于 Flicker、Leap、Teleport、Warp 的月付、季付、半年付、年付、两年付及三年付，不含闪跃年付小包。全节点 1 倍率表示页面不另列高倍率节点，仍应按自己的月流量需求预留余量。
 
 还可比较同样提供定制客户端与通用订阅的[一翻云](https://eoht.net/serve/airport/1fly)和[Sogo云](https://eoht.net/serve/airport/sogo)，并查看[IPLC 线路选择](https://eoht.net/serve/routes/selection)、[流媒体指南](https://eoht.net/streaming/summary)、[AI 使用指南](https://eoht.net/ai/summary)与[三天测试指南](https://eoht.net/serve/routes/choose-guide)。
 
