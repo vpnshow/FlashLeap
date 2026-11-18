@@ -4,17 +4,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/flashleap) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-闪跃（FlashLeap）同时提供定制客户端和通用机场订阅，常见叫法包括“FlashLeap VPN”“闪跃梯子”和“闪跃机场”。使用通用订阅时，可将订阅导入兼容客户端，再使用其中的代理节点；页面套餐均列为全节点 1 倍率，可先按每月流量选择档位，再确认自己偏好的使用方式。
-
 > [!NOTE]
 > **30 秒看懂闪跃**
 >
-> - **最低门槛**：闪跃年付版 60GB/月，年付 ¥96；月付档位从 150GB 到 1TB。
-> - **核心特点**：主打 IPLC 线路、全节点 1 倍率，并提供定制客户端与通用订阅。
-> - **优惠与场景**：`shanyue` 享 8 折，限指定套餐及付款周期、限用一次；原生 IP 节点支持流媒体和 AI 服务。
+> [访问官网](https://eoht.net/serve/airport/flashleap) · [查看套餐与优惠](#flashleap-vpn-plans) · [查看测速与解锁](#flashleap-speed-streaming-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐与优惠](#flashleap-vpn-plans) · [查看测速与解锁](#flashleap-speed-streaming-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：闪跃年付版 ¥96、60GB/月，需一次支付全年费用；另有 150GB 至 1TB 的月付档位。
+> - **线路与使用**：主打 IPLC、全节点 1 倍率，可用定制客户端，或将通用订阅导入兼容客户端；页面列有流媒体与 AI 支持。
+> - **优惠条件**：`shanyue` 享 8 折，限指定套餐及付款周期、**限用一次，不含闪跃年付小包**；实际可选周期与折后价格以结算页为准。
 >
+
+闪跃（FlashLeap）同时提供定制客户端和通用机场订阅，常见叫法包括“FlashLeap VPN”“闪跃梯子”和“闪跃机场”。使用通用订阅时，可将订阅导入兼容客户端，再使用其中的代理节点；页面套餐均列为全节点 1 倍率，可先按每月流量选择档位，再确认自己偏好的使用方式。
 
 <a id="flashleap-official-website"></a>
 
